@@ -5,7 +5,7 @@ public class App
 
         System.out.println("We Pranav Silimkhan fggf");
 
-        System.out.println("Iam not bored of training fed  gfffg bug 1 bug 2");
+        
 
         System.out.println("gfdjjk");
     }
